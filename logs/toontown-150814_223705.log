@@ -1,0 +1,70 @@
+ToontownStart: Polling for game2 to finish...
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  sv0.0.0.1-dev
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x103DAF30>}
+local
+fisherman origin:  render/scene/toontownCentral/2000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Battle Event localtoon-battle-event-3
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Battle Event localtoon-battle-event-9
+frame rate: 33.1 fps|0.024d|28 avs||330|332||0x8086|0x0152|673.0MB|787.9MB|3967.3MB|307|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+frame rate: 15.9 fps|0.058d|8 avs||630|632||0x8086|0x0152|708.9MB|820.5MB|3967.3MB|320|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+Battle Event localtoon-battle-event-16
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+frame rate: 10.0 fps|0.094d|18 avs||930|932||0x8086|0x0152|736.4MB|847.5MB|3967.3MB|329|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 1.5)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(-2, 6.3, 0.375)
+### newVec3 =  LVector3f(-2, 6.3, 0)
+### newVec3 =  LVector3f(3.8147e-006, 6, 1.5)
+### newVec3 =  LVector3f(3.8147e-006, 6, 0)
+### newVec3 =  LVector3f(3.8147e-006, 6, 0.375)
+### newVec3 =  LVector3f(3.8147e-006, 6, 0)
+frame rate: 23.5 fps|0.024d|2 avs||1231|1232||0x8086|0x0152|754.0MB|864.6MB|3967.3MB|335|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+frame rate: 24.8 fps|0.020d|2 avs||1531|1532||0x8086|0x0152|768.7MB|878.2MB|3967.3MB|344|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+fisherman origin:  render/scene/daisysGarden/5000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+local
+frame rate: 17.5 fps|0.209d|0 avs||1831|1833||0x8086|0x0152|904.6MB|1025.2MB|3967.3MB|442|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+local
+local
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+local
+local
+local
+local
+local
+frame rate: 26.5 fps|0.025d|0 avs||2131|2133||0x8086|0x0152|1223.2MB|1340.5MB|3967.3MB|736|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+frame rate: 23.7 fps|0.017d|0 avs||2431|2433||0x8086|0x0152|1223.6MB|1340.9MB|3967.3MB|737|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+ignoring InputState-forward

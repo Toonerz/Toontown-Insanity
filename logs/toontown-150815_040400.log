@@ -1,0 +1,114 @@
+ToontownStart: Polling for game2 to finish...
+INJECTOR ENABLED
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  sv0.0.0.1-dev
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x127E3F08>}
+local
+1
+fisherman origin:  render/scene/daisysGarden/5000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+local
+local
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+local
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+adjusting item index -1
+exiting due to lack of items
+local
+-----------Starting closet interaction-----------
+avid: 100000005, gender: m
+current top = 145,27,131,27 and  bot = 2,16,
+topsList = [0, 2, 0, 2, 150, 27, 137, 27, 136, 27, 123, 27, 103, 27, 90, 27, 80, 27, 69, 27, 143, 27, 130, 27, 104, 27, 91, 27]
+bottomsList = []
+-------------------------------------------------
+-----------ending trunk interaction-----------
+avid: 100000005, gender: m
+current top = 143,27,130,27 and  bot = 2,16,
+topsList = [0, 2, 0, 2, 150, 27, 137, 27, 136, 27, 123, 27, 103, 27, 90, 27, 80, 27, 69, 27, 145, 27, 131, 27, 104, 27, 91, 27]
+bottomsList = []
+-------------------------------------------------
+local
+frame rate: 37.0 fps|0.018d|0 avs||332|333||0x8086|0x0152|793.5MB|811.5MB|3967.3MB|556|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+adjusting item index -1
+exiting due to lack of items
+local
+local
+local
+adjusting item index -1
+exiting due to lack of items
+local
+-----------Starting closet interaction-----------
+avid: 100000005, gender: m
+current top = 130,27,117,27 and  bot = 2,16,
+topsList = [0, 2, 0, 2, 150, 27, 137, 27, 136, 27, 123, 27, 103, 27, 90, 27, 80, 27, 69, 27, 145, 27, 131, 27, 104, 27, 91, 27, 143, 27, 130, 27]
+bottomsList = []
+-------------------------------------------------
+frame rate: 46.2 fps|0.021d|2 avs||632|633||0x8086|0x0152|927.9MB|944.3MB|3967.3MB|608|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+-----------ending trunk interaction-----------
+avid: 100000005, gender: m
+current top = 130,27,117,27 and  bot = 2,16,
+topsList = [0, 2, 0, 2, 150, 27, 137, 27, 136, 27, 123, 27, 103, 27, 90, 27, 80, 27, 69, 27, 145, 27, 131, 27, 104, 27, 91, 27, 143, 27, 130, 27]
+bottomsList = []
+-------------------------------------------------
+local
+local
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\python\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1896, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1496, in handlePlayGame
+    self.handleUpdateField(di)
+  File "C:\Panda3D-1.9.0\python\direct\distributed\ClientRepositoryBase.py", line 438, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "C:\Panda3D-1.9.0\python\direct\distributed\ClientRepositoryBase.py", line 446, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\toon\DistributedToon.py", line 875, in setAnimState
+    if self.animFSM.getStateNamed(animName):
+AttributeError: 'DistributedToon' object has no attribute 'animFSM'
+Traceback (most recent call last):
+  File "otp\otpbase\OTPBase.py", line 238, in run
+    taskMgr.run()
+  File "C:\Panda3D-1.9.0\python\direct\task\Task.py", line 502, in run
+    self.step()
+  File "C:\Panda3D-1.9.0\python\direct\task\Task.py", line 460, in step
+    self.mgr.poll()
+  File "C:\Panda3D-1.9.0\python\direct\distributed\ConnectionRepository.py", line 613, in readerPollUntilEmpty
+    while self.readerPollOnce():
+  File "C:\Panda3D-1.9.0\python\direct\distributed\ConnectionRepository.py", line 620, in readerPollOnce
+    self.handleDatagram(self.private__di)
+  File "otp\distributed\OTPClientRepository.py", line 1896, in handleDatagram
+    self.handler(msgType, di)
+  File "otp\distributed\OTPClientRepository.py", line 1496, in handlePlayGame
+    self.handleUpdateField(di)
+  File "C:\Panda3D-1.9.0\python\direct\distributed\ClientRepositoryBase.py", line 438, in handleUpdateField
+    self.__doUpdate(doId, di, ovUpdated)
+  File "C:\Panda3D-1.9.0\python\direct\distributed\ClientRepositoryBase.py", line 446, in __doUpdate
+    do.dclass.receiveUpdate(do, di)
+  File "toontown\toon\DistributedToon.py", line 875, in setAnimState
+    if self.animFSM.getStateNamed(animName):
+AttributeError: 'DistributedToon' object has no attribute 'animFSM'

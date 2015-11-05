@@ -1,0 +1,702 @@
+ToontownStart: Polling for game2 to finish...
+INJECTOR ENABLED
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  sv0.0.0.1-dev
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x11810F58>}
+local
+fisherman origin:  render/scene/daisysGarden/5000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+frame rate: 58.5 fps|0.014d|0 avs||330|331||0x8086|0x0152|641.7MB|634.2MB|3967.3MB|267|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 7, in <module>
+NameError: name 'toontown' is not defined
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+fisherman origin:  render/scene/toontownCentral/2000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Panda3D-1.9.0\python\lib\lib-tk\Tkinter.py", line 1470, in __call__
+    return self.func(*args)
+  File "toontown\toonbase\DevInjector.py", line 3, in runInjectorCode
+    exec (text.get(1.0, "end"),globals())
+  File "<string>", line 1, in <module>
+NameError: name 'bingo' is not defined
+frame rate: 29.2 fps|0.005d|3 avs||630|631||0x8086|0x0152|607.1MB|619.5MB|3967.3MB|290|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+ignoring InputState-forward

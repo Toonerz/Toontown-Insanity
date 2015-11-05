@@ -1,0 +1,62 @@
+ToontownStart: Polling for game2 to finish...
+INJECTOR ENABLED
+ToontownStart: Game2 is finished.
+ToontownStart: Starting the game.
+ToontownStart: setting default font
+TTLocalizer: Running in language: english
+from toontown.toonbase.TTLocalizerEnglish import *
+OTPLocalizer: Running in language: english
+from otp.otpbase.OTPLocalizerEnglish import *
+ToontownStart: Loading default gui sounds
+ToontownStart: serverVersion:  sv0.0.0.1-dev
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x127F2F08>}
+local
+1
+fisherman origin:  render/scene/toontownCentral/2000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+fisherman origin:  hidden/scene/toontownCentral/2000:safe_zone/fishing_pond_1/npc_fisherman_origin_0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+frame rate: 30.7 fps|0.037d|1 avs||331|332||0x8086|0x0152|803.1MB|797.6MB|3967.3MB|350|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+0.40000000596
+0.40000000596
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+generating Pie PiejectileManager Pie 0
+removing piejectile
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+removing piejectile
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+ignoring InputState-forward
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x127F2F08>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x127F2F08>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x127F2F08>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x127F2F08>}
+{401000001: <toontown.distributed.ToontownDistrict.ToontownDistrict instance at 0x127F2F08>}
+local
+1
+0.40000000596
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+OnscreenText.configure: mayChange == 0
+0.40000000596
+0.40000000596
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+frame rate: 14.1 fps|0.013d|1 avs||993|994||0x8086|0x0152|1166.4MB|1161.0MB|3967.3MB|570|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+generating Pie PiejectileManager Pie 1
+removing piejectile
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+removing piejectile
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+frame rate: 40.1 fps|0.007d|1 avs||1293|1294||0x8086|0x0152|1179.8MB|1177.3MB|3967.3MB|581|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+0.40000000596
+0.40000000596
+0.40000000596
+0.40000000596
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+Warning: NodePath.remove() is deprecated.  Use remove_node() instead.
+frame rate: 19.5 fps|0.008d|0 avs||1593|1594||0x8086|0x0152|1643.6MB|1638.7MB|3967.3MB|703|nt.2.6.2|2.300,2.300|2,2 cpus|OpenGL
+ignoring InputState-forward
